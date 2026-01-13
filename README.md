@@ -3,7 +3,7 @@
 A lightweight local security scanner that analyzes files inside a folder, detects suspicious behavior, evaluates software versions against a vulnerability database, and produces detailed reports. It is designed to be **robust** (fails safely instead of crashing) and **practical for real-world use**.
 
 
-## 🚀 What it does (in plain English)
+## 🚀 What it does 
 
 The scanner:
 
