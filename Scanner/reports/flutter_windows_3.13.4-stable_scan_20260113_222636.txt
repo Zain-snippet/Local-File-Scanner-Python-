@@ -1,0 +1,550 @@
+LOCAL SECURITY SCAN REPORT
+==============================
+Scan started at : 2026-01-13 10:26:05 PM
+Scan ended at   : 2026-01-13 10:26:36 PM
+
+SCAN TARGETS
+------------
+- D:/program Files/flutter_windows_3.13.4-stable
+
+SUMMARY
+----------
+Scan completed. 46 issue(s) detected (26 high, 4 medium, 16 low severity).
+
+STATISTICS
+----------
+Total findings        : 46
+File-based findings   : 45
+Software findings     : 1
+Medium         : 4
+Low            : 16
+High           : 26
+
+DETAILED FINDINGS
+----------------
+[1] Type     : file
+    Name     : flutter_console.bat
+    Severity : Medium
+
+    Causes:
+      - Suspicious script behavior detected (payload_download)
+
+    Recommended Actions:
+      - Disconnect from network and delete file
+    Urgency : medium
+
+[2] Type     : file
+    Name     : dart.bat
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[3] Type     : file
+    Name     : flutter.bat
+    Severity : Medium
+
+    Causes:
+      - Suspicious script behavior detected (payload_download)
+
+    Recommended Actions:
+      - Disconnect from network and delete file
+    Urgency : medium
+
+[4] Type     : file
+    Name     : gradlew.bat
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[5] Type     : file
+    Name     : docs.dart.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[6] Type     : file
+    Name     : highlight.pack.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[7] Type     : file
+    Name     : devtools_analytics.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[8] Type     : file
+    Name     : flutter.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[9] Type     : file
+    Name     : flutter_service_worker.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[10] Type     : file
+    Name     : service_worker.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[11] Type     : file
+    Name     : engine_bundle.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[12] Type     : file
+    Name     : canvaskit.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[13] Type     : file
+    Name     : skwasm.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[14] Type     : file
+    Name     : skwasm.worker.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[15] Type     : file
+    Name     : canvaskit.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[16] Type     : file
+    Name     : require.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[17] Type     : file
+    Name     : dart_stack_trace_mapper.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[18] Type     : file
+    Name     : d8.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[19] Type     : file
+    Name     : d8.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[20] Type     : file
+    Name     : jsshell.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[21] Type     : file
+    Name     : canvaskit.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[22] Type     : file
+    Name     : skwasm.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[23] Type     : file
+    Name     : skwasm.worker.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[24] Type     : file
+    Name     : canvaskit.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[25] Type     : file
+    Name     : exit_with_errorlevel.bat
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[26] Type     : file
+    Name     : shared.bat
+    Severity : Medium
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops)
+
+    Recommended Actions:
+      - Review file manually
+    Urgency : medium
+
+[27] Type     : file
+    Name     : shared.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[28] Type     : file
+    Name     : update_dart_sdk.ps1
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[29] Type     : file
+    Name     : update_dart_sdk.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[30] Type     : file
+    Name     : lang.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[31] Type     : file
+    Name     : zzz_rm_stackdumps.sh
+    Severity : Medium
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops)
+
+    Recommended Actions:
+      - Review file manually
+    Urgency : medium
+
+[32] Type     : file
+    Name     : codelabs_build_test.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[33] Type     : file
+    Name     : docs.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[34] Type     : file
+    Name     : compile_proto.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[35] Type     : file
+    Name     : ci.bat
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[36] Type     : file
+    Name     : ci.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[37] Type     : file
+    Name     : api_survey.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[38] Type     : file
+    Name     : snippets.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : high
+
+[39] Type     : file
+    Name     : download_assets.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[40] Type     : file
+    Name     : run_release_test.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[41] Type     : file
+    Name     : run_instrumentation_test.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[42] Type     : file
+    Name     : repackage_gradle_wrapper.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[43] Type     : file
+    Name     : macos_assemble.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : high
+
+[44] Type     : file
+    Name     : xcode_debug.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[45] Type     : file
+    Name     : flutter.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[46] Type     : software
+    Name     : Python Launcher
+    Severity : LOW
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low

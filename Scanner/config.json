@@ -1,0 +1,17 @@
+
+{
+  "scan_paths": [
+    "C:\\Users\\jahan\\Desktop\\Scanner (1)\\Scanner\\Test FIles"
+  ],
+
+  "excluded_paths": [],
+  "scan_executables": true,
+  "scan_scripts": true,
+  "scan_software": true,
+  "max_file_size_mb": 100,
+  "concurrency": 4,
+  "vulnerability_db_path":"C:\\Users\\jahan\\Downloads\\Scanner\\vulnerabilities.json",
+  "save_reports": true,
+  "report_format": "text",
+  "fail_fast": false
+}

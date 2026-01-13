@@ -1,0 +1,258 @@
+{
+  "_comment": "TEST DATABASE — version rules intentionally weakened to validate scanner logic",
+  "vulnerabilities": [
+
+    {
+  "software": "3uTools",
+  "version_rule": "3.0.0 - 3.2.12",
+  "severity": "High",
+  "cve": "CVE-TEST-3UTOOLS",
+  "description": "Test vulnerability for 3uTools versions below 3.3.0"
+},
+
+
+    {
+  "software": "Google Chrome",
+  "version_rule": "< 120.0.0",
+  "severity": "High",
+  "cve": "CVE-TEST-CHROME",
+  "description": "Chrome versions below 120 are vulnerable"
+},
+
+
+    {
+      "software": "Android Studio",
+      "version_rule": "< 2026.0",
+      "severity": "High",
+      "cve": "CVE-TEST-ANDROID-001",
+      "description": "Android Studio versions prior to 2026.0 are affected by a simulated test vulnerability."
+    },
+
+    {
+      "software": "Adobe Animate",
+      "version_rule": "< 23.0.0",
+      "severity": "Medium",
+      "cve": "CVE-TEST-ADOBE-002",
+      "description": "Adobe Animate versions before 23.0.0 are vulnerable to a test memory handling issue."
+    },
+
+    {
+      "software": "Adobe Substance 3D Designer",
+      "version_rule": "< 13.0",
+      "severity": "High",
+      "cve": "CVE-TEST-ADOBE-003",
+      "description": "Outdated Substance Designer builds prior to 13.0 are considered vulnerable for testing."
+    },
+
+    {
+      "software": "3uTools",
+      "version_rule": "< 4.0",
+      "severity": "Medium",
+      "cve": "CVE-TEST-3UTOOLS-004",
+      "description": "3uTools versions earlier than 4.0 are flagged for insecure update mechanisms."
+    },
+
+    {
+      "software": "Application Verifier",
+      "version_rule": "< 11.0.0",
+      "severity": "Low",
+      "cve": "CVE-TEST-MS-005",
+      "description": "Application Verifier legacy versions are marked as outdated for scanner validation."
+    },
+
+    {
+  "software": "Android Studio",
+  "version_rule": "< 2026.0",
+  "severity": "High",
+  "cve": "CVE-TEST-ANDROID",
+  "description": "Android Studio versions below 2026.0 are vulnerable (TEST DATA)"
+},
+
+
+    {
+      "software": "Microsoft Edge",
+      "version_rule": "< 118.0.0",
+      "severity": "Medium",
+      "cve": "CVE-TEST-EDGE-002",
+      "description": "Older Edge versions vulnerable to sandbox escape through browser extensions."
+    },
+
+    {
+      "software": "Visual Studio Code",
+      "version_rule": "< 1.80.0",
+      "severity": "Medium",
+      "cve": "CVE-TEST-VSCODE-003",
+      "description": "VS Code versions below 1.80 may allow malicious extensions to bypass security checks."
+    },
+
+    {
+      "software": "Python",
+      "version_rule": "< 4.11.0",
+      "severity": "High",
+      "cve": "CVE-TEST-PYTHON-004",
+      "description": "Older Python releases vulnerable to memory corruption in standard libraries."
+    },
+
+    {
+      "software": "Java",
+      "version_rule": "< 17.0.8",
+      "severity": "Critical",
+      "cve": "CVE-TEST-JAVA-005",
+      "description": "Outdated Java Runtime Environment may allow arbitrary code execution."
+    },
+
+    {
+      "software": "Node.js",
+      "version_rule": "< 18.0.0",
+      "severity": "High",
+      "cve": "CVE-TEST-NODE-006",
+      "description": "Node.js versions below 18 contain known vulnerabilities in HTTP handling."
+    },
+
+    {
+      "software": "Git",
+      "version_rule": "< 2.40.0",
+      "severity": "Medium",
+      "cve": "CVE-TEST-GIT-007",
+      "description": "Older Git versions vulnerable to repository-based command injection."
+    },
+
+    {
+      "software": "7-Zip",
+      "version_rule": "< 23.0.0",
+      "severity": "Medium",
+      "cve": "CVE-TEST-7ZIP-008",
+      "description": "7-Zip outdated versions vulnerable to crafted archive exploitation."
+    },
+
+    {
+      "software": "VLC media player",
+      "version_rule": "< 3.0.20",
+      "severity": "Low",
+      "cve": "CVE-TEST-VLC-009",
+      "description": "Older VLC versions vulnerable to denial-of-service via malformed media files."
+    },
+
+    {
+      "software": "Adobe Acrobat Reader",
+      "version_rule": "< 23.003.20244",
+      "severity": "Critical",
+      "cve": "CVE-TEST-ADOBE-010",
+      "description": "Outdated Adobe Reader versions vulnerable to malicious PDF execution."
+    },
+
+     {
+      "software": "Microsoft Windows",
+      "version_rule": "< 10.0.19045",
+      "severity": "Critical",
+      "cve": "CVE-TEST-WINDOWS-011",
+      "description": "Outdated Windows builds may allow privilege escalation or remote code execution."
+    },
+
+    {
+      "software": "Microsoft Office",
+      "version_rule": "< 16.0.17029",
+      "severity": "Critical",
+      "cve": "CVE-TEST-OFFICE-012",
+      "description": "Older Microsoft Office versions vulnerable to malicious document execution."
+    },
+
+    {
+      "software": "Microsoft Word",
+      "version_rule": "< 16.0.17029",
+      "severity": "High",
+      "cve": "CVE-TEST-WORD-013",
+      "description": "Word versions below the patched build vulnerable to macro-based attacks."
+    },
+
+    {
+      "software": "Microsoft Excel",
+      "version_rule": "< 16.0.17029",
+      "severity": "High",
+      "cve": "CVE-TEST-EXCEL-014",
+      "description": "Excel outdated versions vulnerable to malicious formula injection."
+    },
+
+    {
+      "software": "Microsoft PowerPoint",
+      "version_rule": "< 16.0.17029",
+      "severity": "Medium",
+      "cve": "CVE-TEST-PPT-015",
+      "description": "Older PowerPoint builds vulnerable to crafted slide exploitation."
+    },
+
+    {
+      "software": "Microsoft Outlook",
+      "version_rule": "< 16.0.17029",
+      "severity": "High",
+      "cve": "CVE-TEST-OUTLOOK-016",
+      "description": "Outlook outdated versions vulnerable to malicious attachment execution."
+    },
+
+    {
+      "software": "Microsoft OneDrive",
+      "version_rule": "< 23.150",
+      "severity": "Medium",
+      "cve": "CVE-TEST-ONEDRIVE-017",
+      "description": "Older OneDrive versions vulnerable to insecure sync handling."
+    },
+
+    {
+      "software": "Microsoft Teams",
+      "version_rule": "< 1.6.00",
+      "severity": "Low",
+      "cve": "CVE-TEST-TEAMS-018",
+      "description": "Outdated Teams client may expose user metadata through insecure API calls."
+    },
+
+    {
+      "software": "Microsoft Visual Studio",
+      "version_rule": "< 17.8.0",
+      "severity": "High",
+      "cve": "CVE-TEST-VS-019",
+      "description": "Older Visual Studio versions vulnerable to extension-based privilege escalation."
+    },
+
+    {
+      "software": "Microsoft .NET Runtime",
+      "version_rule": "< 6.0.25",
+      "severity": "High",
+      "cve": "CVE-TEST-DOTNET-020",
+      "description": ".NET Runtime outdated versions vulnerable to memory corruption."
+    },
+
+        {
+      "software": "Kali Linux",
+      "version_rule": "> 2023.4",
+      "severity": "Medium",
+      "cve": "CVE-TEST-KALI-031",
+      "description": "Older Kali Linux distributions may include outdated penetration testing tools with known vulnerabilities."
+    },
+
+    {
+      "software": "Metasploitable",
+      "version_rule": "< 2.0",
+      "severity": "Critical",
+      "cve": "CVE-TEST-META-032",
+      "description": "Metasploitable is intentionally vulnerable and should never be deployed on production systems."
+    },
+
+    {
+      "software": "Nessus",
+      "version_rule": "< 10.7.0",
+      "severity": "High",
+      "cve": "CVE-TEST-NESSUS-033",
+      "description": "Outdated Nessus versions vulnerable to privilege escalation and plugin execution flaws."
+    },
+
+    {
+      "software": "Flutter",
+      "version_rule": "< 3.19.0",
+      "severity": "Low",
+      "cve": "CVE-TEST-FLUTTER-034",
+      "description": "Older Flutter SDK versions vulnerable to insecure dependency resolution."
+    }
+
+
+  ]
+}

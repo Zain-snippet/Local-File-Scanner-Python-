@@ -1,0 +1,154 @@
+LOCAL SECURITY SCAN REPORT
+==============================
+Scan started at : 2026-01-13 10:18:28 PM
+Scan ended at   : 2026-01-13 10:18:30 PM
+
+SCAN TARGETS
+------------
+- D:\Downloads
+
+SUMMARY
+----------
+Scan completed. 12 issue(s) detected (3 high, 4 medium, 5 low severity).
+
+STATISTICS
+----------
+Total findings        : 12
+File-based findings   : 11
+Software findings     : 1
+Medium         : 4
+High           : 3
+Low            : 5
+
+DETAILED FINDINGS
+----------------
+[1] Type     : file
+    Name     : VisualStudioSetup.exe
+    Severity : Medium
+
+    Causes:
+      - Executable located in high-risk directory (downloads)
+
+    Recommended Actions:
+      - Move file out of Downloads directory
+    Urgency : medium
+
+[2] Type     : file
+    Name     : VSCodeUserSetup-x64-1.107.1.exe
+    Severity : Medium
+
+    Causes:
+      - Executable located in high-risk directory (downloads)
+
+    Recommended Actions:
+      - Move file out of Downloads directory
+    Urgency : medium
+
+[3] Type     : file
+    Name     : Zoom_cm_fo42lnktZ9vvrZo4_m3FAAoczdbpqC9kiH9QgtqB9EiPDky1uJaK6p@W8OY5+-m5OL8LD17_kf5df5a27cfc527d4_.exe
+    Severity : Medium
+
+    Causes:
+      - Executable located in high-risk directory (downloads)
+
+    Recommended Actions:
+      - Move file out of Downloads directory
+    Urgency : medium
+
+[4] Type     : file
+    Name     : DSAFINALPROJECT.exe
+    Severity : Medium
+
+    Causes:
+      - Executable located in high-risk directory (downloads)
+
+    Recommended Actions:
+      - Move file out of Downloads directory
+    Urgency : medium
+
+[5] Type     : file
+    Name     : watch_info.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[6] Type     : file
+    Name     : WebViewJavascriptBridge.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[7] Type     : file
+    Name     : byteh5monitor.aio.min.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[8] Type     : file
+    Name     : byteh5privacy.aio.min.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[9] Type     : file
+    Name     : game_preformance_monitor_1_min.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[10] Type     : file
+    Name     : byteh5bridge_v240815.aio.min.js
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : high
+
+[11] Type     : file
+    Name     : dVz.js
+    Severity : Low
+
+    Causes:
+      - Suspicious script behavior detected (obfuscation)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+    Urgency : low
+
+[12] Type     : software
+    Name     : Python Launcher
+    Severity : LOW
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low

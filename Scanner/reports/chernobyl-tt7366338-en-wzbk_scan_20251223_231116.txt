@@ -1,0 +1,613 @@
+LOCAL SECURITY SCAN REPORT
+==============================
+Scan started at : 2025-12-23 11:11:16 PM
+Scan ended at   : 2025-12-23 11:11:16 PM
+
+SCAN TARGETS
+------------
+- E:/Chernobyl.COMPLETE.Season.1.S01.1080p.AMZN.WEB-DL.x265-HETeam/chernobyl-tt7366338-en-wzbk
+
+SUMMARY
+----------
+Scan completed. 74 issue(s) detected ( severity).
+
+STATISTICS
+----------
+Total findings        : 74
+File-based findings   : 0
+Software findings     : 74
+Unknown        : 74
+
+DETAILED FINDINGS
+----------------
+[1] Type     : software
+    Name     : 3uTools
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[2] Type     : software
+    Name     : 3uTools(32bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[3] Type     : software
+    Name     : Adobe Animate 2022
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[4] Type     : software
+    Name     : Adobe Substance 3D Designer
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[5] Type     : software
+    Name     : Android Studio
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[6] Type     : software
+    Name     : Application Verifier x64 External Package
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[7] Type     : software
+    Name     : Application Verifier x64 External Package (DesktopEditions)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[8] Type     : software
+    Name     : Application Verifier x64 External Package (OnecoreUAP)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[9] Type     : software
+    Name     : Microsoft Excel MUI (English) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[10] Type     : software
+    Name     : Microsoft Excel MUI (Russian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[11] Type     : software
+    Name     : Microsoft Excel MUI (Ukrainian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[12] Type     : software
+    Name     : Microsoft Office 32-bit Components 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[13] Type     : software
+    Name     : Microsoft Office Korrekturhilfen 2016 – Deutsch
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[14] Type     : software
+    Name     : Microsoft Office OSM MUI (English) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[15] Type     : software
+    Name     : Microsoft Office OSM MUI (Russian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[16] Type     : software
+    Name     : Microsoft Office OSM MUI (Ukrainian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[17] Type     : software
+    Name     : Microsoft Office OSM UX MUI (English) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[18] Type     : software
+    Name     : Microsoft Office OSM UX MUI (Russian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[19] Type     : software
+    Name     : Microsoft Office OSM UX MUI (Ukrainian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[20] Type     : software
+    Name     : Microsoft Office Professional Plus 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[21] Type     : software
+    Name     : Microsoft Office Proofing (English) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[22] Type     : software
+    Name     : Microsoft Office Proofing (Russian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[23] Type     : software
+    Name     : Microsoft Office Proofing (Ukrainian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[24] Type     : software
+    Name     : Microsoft Office Proofing Tools 2016 - English
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[25] Type     : software
+    Name     : Microsoft Office Shared 32-bit MUI (English) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[26] Type     : software
+    Name     : Microsoft Office Shared 32-bit MUI (Russian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[27] Type     : software
+    Name     : Microsoft Office Shared 32-bit MUI (Ukrainian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[28] Type     : software
+    Name     : Microsoft Office Shared MUI (English) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[29] Type     : software
+    Name     : Microsoft Office Shared MUI (Russian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[30] Type     : software
+    Name     : Microsoft Office Shared MUI (Ukrainian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[31] Type     : software
+    Name     : Microsoft Office Shared Setup Metadata MUI (English) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[32] Type     : software
+    Name     : Microsoft Outlook MUI (English) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[33] Type     : software
+    Name     : Microsoft Outlook MUI (Russian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[34] Type     : software
+    Name     : Microsoft Outlook MUI (Ukrainian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[35] Type     : software
+    Name     : Microsoft PowerPoint MUI (English) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[36] Type     : software
+    Name     : Microsoft PowerPoint MUI (Russian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[37] Type     : software
+    Name     : Microsoft PowerPoint MUI (Ukrainian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[38] Type     : software
+    Name     : Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[39] Type     : software
+    Name     : Microsoft Visual Studio Code (User)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[40] Type     : software
+    Name     : Microsoft Visual Studio Installer
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[41] Type     : software
+    Name     : Microsoft Visual Studio Setup Configuration
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[42] Type     : software
+    Name     : Microsoft Visual Studio Setup WMI Provider
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[43] Type     : software
+    Name     : Microsoft Visual Studio Tools for Applications 2015
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[44] Type     : software
+    Name     : Microsoft Visual Studio Tools for Applications 2015 Finalizer
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[45] Type     : software
+    Name     : Microsoft Visual Studio Tools for Applications 2015 x64 Hosting Support
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[46] Type     : software
+    Name     : Microsoft Visual Studio Tools for Applications 2015 x86 Hosting Support
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[47] Type     : software
+    Name     : Microsoft Visual Studio Tools for Applications 2019
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[48] Type     : software
+    Name     : Microsoft Visual Studio Tools for Applications 2019 x64 Hosting Support
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[49] Type     : software
+    Name     : Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[50] Type     : software
+    Name     : Microsoft Windows Desktop Runtime - 6.0.36 (x64)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[51] Type     : software
+    Name     : Microsoft Word MUI (English) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[52] Type     : software
+    Name     : Microsoft Word MUI (Russian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[53] Type     : software
+    Name     : Microsoft Word MUI (Ukrainian) 2016
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[54] Type     : software
+    Name     : Python 3.14.0 (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[55] Type     : software
+    Name     : Python 3.14.0 Core Interpreter (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[56] Type     : software
+    Name     : Python 3.14.0 Development Libraries (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[57] Type     : software
+    Name     : Python 3.14.0 Documentation (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[58] Type     : software
+    Name     : Python 3.14.0 Executables (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[59] Type     : software
+    Name     : Python 3.14.0 pip Bootstrap (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[60] Type     : software
+    Name     : Python 3.14.0 Standard Library (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[61] Type     : software
+    Name     : Python 3.14.0 Tcl/Tk Support (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[62] Type     : software
+    Name     : Python 3.14.0 Test Suite (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[63] Type     : software
+    Name     : Python 3.7.0 (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[64] Type     : software
+    Name     : Python 3.7.0 Add to Path (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[65] Type     : software
+    Name     : Python 3.7.0 Core Interpreter (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[66] Type     : software
+    Name     : Python 3.7.0 Development Libraries (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[67] Type     : software
+    Name     : Python 3.7.0 Documentation (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[68] Type     : software
+    Name     : Python 3.7.0 Executables (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[69] Type     : software
+    Name     : Python 3.7.0 pip Bootstrap (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[70] Type     : software
+    Name     : Python 3.7.0 Standard Library (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[71] Type     : software
+    Name     : Python 3.7.0 Tcl/Tk Support (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[72] Type     : software
+    Name     : Python 3.7.0 Test Suite (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[73] Type     : software
+    Name     : Python 3.7.0 Utility Scripts (64-bit)
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
+
+[74] Type     : software
+    Name     : Python Launcher
+    Severity : UNKNOWN
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low

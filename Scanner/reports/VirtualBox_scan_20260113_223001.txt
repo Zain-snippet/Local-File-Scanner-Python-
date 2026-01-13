@@ -1,0 +1,149 @@
+LOCAL SECURITY SCAN REPORT
+==============================
+Scan started at : 2026-01-13 10:30:00 PM
+Scan ended at   : 2026-01-13 10:30:01 PM
+
+SCAN TARGETS
+------------
+- D:/program Files/VirtualBox
+
+SUMMARY
+----------
+Scan completed. 11 issue(s) detected (10 high, 1 low severity).
+
+STATISTICS
+----------
+Total findings        : 11
+File-based findings   : 10
+Software findings     : 1
+High           : 10
+Low            : 1
+
+DETAILED FINDINGS
+----------------
+[1] Type     : file
+    Name     : vboxapisetup.py
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, payload_download)
+
+    Recommended Actions:
+      - Disconnect from network and delete file
+    Urgency : high
+
+[2] Type     : file
+    Name     : setup.py
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[3] Type     : file
+    Name     : VirtualBox_constants.py
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[4] Type     : file
+    Name     : __init__.py
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[5] Type     : file
+    Name     : debian_postinstall.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[6] Type     : file
+    Name     : lgw_postinstall.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[7] Type     : file
+    Name     : ol_postinstall.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[8] Type     : file
+    Name     : os2_cid_install.cmd
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[9] Type     : file
+    Name     : redhat_postinstall.sh
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[10] Type     : file
+    Name     : win_postinstall.cmd
+    Severity : High
+
+    Causes:
+      - Suspicious script behavior detected (destructive_ops, obfuscation, payload_download, persistence)
+
+    Recommended Actions:
+      - Inspect script in a safe text editor
+      - Disconnect from network and delete file
+    Urgency : high
+
+[11] Type     : software
+    Name     : Python Launcher
+    Severity : LOW
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low

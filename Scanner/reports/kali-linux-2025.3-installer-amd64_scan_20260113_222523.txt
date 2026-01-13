@@ -1,0 +1,29 @@
+LOCAL SECURITY SCAN REPORT
+==============================
+Scan started at : 2026-01-13 10:25:20 PM
+Scan ended at   : 2026-01-13 10:25:23 PM
+
+SCAN TARGETS
+------------
+- D:/program Files/kali-linux-2025.3-installer-amd64
+
+SUMMARY
+----------
+Scan completed. 1 issue(s) detected (1 low severity).
+
+STATISTICS
+----------
+Total findings        : 1
+File-based findings   : 0
+Software findings     : 1
+Low            : 1
+
+DETAILED FINDINGS
+----------------
+[1] Type     : software
+    Name     : Python Launcher
+    Severity : LOW
+
+    Recommended Actions:
+      - No immediate action required
+    Urgency : low
